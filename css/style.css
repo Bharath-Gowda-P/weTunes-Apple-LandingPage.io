@@ -18,7 +18,7 @@ body{
     padding: 0;
     width: 100%;
     height: 100vh;
-    background-image: url('images/showcase.JPG');
+    background-image: url('../images/showcase.JPG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -178,7 +178,7 @@ nav{
 }
 
 #ent{
-    background-image: url("images/section-bg.jpg");
+    background-image: url("../images/section-bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
